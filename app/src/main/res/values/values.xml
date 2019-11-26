@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="statusbarutil_fake_status_bar_view" type="id">11sp</item>
+    <item name="statusbarutil_translucent_view" type="id">11sp</item>
+    <item name="BaseQuickAdapter_databinding_support2" type="id"/>
+    <item name="BaseQuickAdapter_databinding_support3" type="id"/>
+</resources>
